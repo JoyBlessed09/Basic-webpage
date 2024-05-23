@@ -1,0 +1,11 @@
+p {
+    color:rgb(255, 192, 242);
+    font-size:30px;
+}
+.second-p{
+    color:rgb(86, 29, 86);
+    background-color: aquamarine;
+    width: 50%;
+    height:200px;
+    overflow:scroll;
+}
